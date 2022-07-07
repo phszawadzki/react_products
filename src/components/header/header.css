@@ -1,0 +1,25 @@
+.logo__image {
+    width: 200px;
+    margin: 2rem;
+}
+
+.link a {
+     text-decoration: none;
+    color: black;
+}
+
+.link a:hover {
+    
+    color: #e37916;
+}
+
+.button_link a {
+    text-decoration: none;
+    background-color: #e37916;
+    padding: 10px 20px;
+    color: white;
+}
+
+.button_link a:hover {
+    color: black;
+}
